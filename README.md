@@ -1,2 +1,2 @@
-# mugyun.github.io
+# index.html
 mugyun.github.io
